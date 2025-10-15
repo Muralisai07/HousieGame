@@ -23,7 +23,7 @@ Generates unique random numbers from **1–90**, tracks history, and allows easy
 - **Vanilla JavaScript (ES6+)**
 
 ## 🌐 Live Demo
-👉 [HousieGame.github.io/housie-number-generator](https://HousieGame.github.io/housie-number-generator)
+👉http://127.0.0.1:5500/index.html
 
 ## 📄 License
 Released under the **MIT License** – free to use and modify.
